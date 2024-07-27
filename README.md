@@ -27,4 +27,4 @@ Each practical is implemented as a Jupyter Notebook, providing detailed explanat
 - If you find any bugs or issues, please report them in the "Issues" section.
 - Contributions through pull requests are welcome!
 
-Happy coding!
+Happy coding!!
