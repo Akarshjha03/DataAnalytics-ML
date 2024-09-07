@@ -1,6 +1,6 @@
 # Data Science Practices Repository
 
-Welcome to my data science practices repository! This repository explores various data science practices based on Data Visualization & Analytics like Exploratory Data Analysis, statistical analysis, machine learning, and data visualization with Power BI.
+Welcome to my data science practices repository! This repository explores various data science practices based on Data Visualization & Analytics like Exploratory Data Analysis, statistical analysis, machine learning, and data visualization with Power BI. 
 
 ## Overview
 
