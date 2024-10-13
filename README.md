@@ -10,8 +10,9 @@ This repository contains Jupyter Notebook files covering a range of data science
 2. Calculation of mean, median, and mode of the first 50 records in the dataset using Python.
 3. Multiple Linear Regression on data.
 4. Logistic Regression on a dataset.
-5. **Practical-5**: K-means clustering to gain insights from data.
-6. **Practical-6**: Decision tree classification algorithm using a dataset.
+5.
+6. K-means clustering to gain insights from data.
+7. **Practical-6**: Decision tree classification algorithm using a dataset.
 9. **Practical-9**: Plotting various graphs for Data Visualization on Power BI.
 10. **Practical-10**: Interactive Data Analytics with Power BI Dashboard - A case study.
 
