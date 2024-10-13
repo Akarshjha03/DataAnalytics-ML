@@ -8,7 +8,7 @@ This repository contains Jupyter Notebook files covering a range of data science
 
 1. Exploratory Data Analysis on a given dataset using Python.
 2. Calculation of mean, median, and mode of the first 50 records in the dataset using Python.
-3. **Practical-3**: Multiple Linear Regression on data.
+3. Multiple Linear Regression on data.
 4. **Practical-4**: Logistic Regression on a dataset.
 5. **Practical-5**: K-means clustering to gain insights from data.
 6. **Practical-6**: Decision tree classification algorithm using a dataset.
