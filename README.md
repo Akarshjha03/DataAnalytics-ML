@@ -12,9 +12,8 @@ This repository contains Jupyter Notebook files covering a range of data science
 4. Logistic Regression on a dataset.
 6. K-means clustering to gain insights from data.
 7. Decision tree classification algorithm using a dataset.
-9.
-10. Plotting various graphs for Data Visualization on Power BI.
-11. **Practical-10**: Interactive Data Analytics with Power BI Dashboard - A case study.
+9. Plotting various graphs for Data Visualization on Power BI.
+10. Amazon Prime Videos Dashbbaord on Power BI.
 
 ## Contents
 
