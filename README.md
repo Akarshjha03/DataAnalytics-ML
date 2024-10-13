@@ -13,7 +13,6 @@ This repository contains Jupyter Notebook files covering a range of data science
 5. **Practical-5**: K-means clustering to gain insights from data.
 6. **Practical-6**: Decision tree classification algorithm using a dataset.
 7. **Practical-7**: Study and installation of tools like Power BI for data Visualization.
-8. **Practical-8**: Loading a dataset from different sources in Power BI and applying transformations.
 9. **Practical-9**: Plotting various graphs for Data Visualization on Power BI.
 10. **Practical-10**: Interactive Data Analytics with Power BI Dashboard - A case study.
 
