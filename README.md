@@ -6,7 +6,7 @@ Welcome to my data science practices repository! This repository explores variou
 
 This repository contains Jupyter Notebook files covering a range of data science practices. Here's a brief overview of what you can find:
 
-1. **Practical-1**: Exploratory Data Analysis on a given dataset using Python.
+1. Exploratory Data Analysis on a given dataset using Python.
 2. **Practical-2**: Calculation of mean, median, and mode of the first 50 records in the dataset using Python.
 3. **Practical-3**: Multiple Linear Regression on data.
 4. **Practical-4**: Logistic Regression on a dataset.
