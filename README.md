@@ -15,6 +15,11 @@ This repository contains Jupyter Notebook files covering a range of data science
 9. Plotting various graphs for Data Visualization on Power BI.
 10. Amazon Prime Videos Dashbbaord on Power BI.
 
+<div align="center">
+    <img src="./PrimeDashboard.jpg" align="center" style="width:100%;" />
+</div>
+<br>
+
 ## Contents
 
 Each practical is implemented as a Jupyter Notebook, providing detailed explanations and code examples for each practice.
