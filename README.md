@@ -16,7 +16,7 @@ This repository contains Jupyter Notebook files covering a range of data science
 10. Amazon Prime Videos Dashbbaord on Power BI.
 
 <div align="center">
-    <img src="./PrimeDashboard.jpg" align="center" style="width:100%;" />
+    <img src="./PrimeDashboard.png" align="center" style="width:100%;" />
 </div>
 <br>
 
